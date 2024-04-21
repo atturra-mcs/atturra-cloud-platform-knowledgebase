@@ -16,19 +16,18 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - Azure Front Door and Private Links (#54)
  
 ### Changed
-- Changed public ingress to CloudFlare from Azure Front Door (#54)
 - Changed Boomi Gateway installation to a container (#33)
 
 ### Security
 - Action Code Verification Test results (#22, #25, #26, #27)
  
-## [1.2.0] - 2024-04-20
+## [1.2.117] - 2024-04-20
  
 ### Added
 - Added the changelog
 - Added a Shared Pod - Github Self-Hosted Runner (#52)
 - Added a Shared Pod - LetsEncrypt Certrotation (#1)
-- Added a Shared Pod - Octopus Deploy Tenticle (#2)
+- Added a Shared Pod - Octopus Deploy Tentacle (#2)
 - Added new function to create IP allow-lists per domain (#17)
  
 ### Changed
