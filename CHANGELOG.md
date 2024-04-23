@@ -11,15 +11,17 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - Added new functionality to allow individualised routes for each VPN Client (#51)
 - Added and published available knowledgebase including FAQ, architecture design and key configuration information (#60)
 - Added and published maintenance plan for kubernetes cluster and containers (#35)
-
-### Removed
-- Azure Front Door and Private Links (#54)
  
 ### Changed
 - Changed Boomi Gateway installation to a container (#33)
 
 ### Security
 - Action Code Verification Test results (#22, #25, #26, #27)
+
+## [1.2.118] - 2024-04-23
+
+### Added
+- Added Prometheus to client subscriptions to allow for real-time CPU/Memory usage monitoring (#13)
  
 ## [1.2.117] - 2024-04-20
  
@@ -33,10 +35,6 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Changed
 - Enabled Firewall logging (#15)
 - Enabled Azure Front Door logging (#16)
-
-### Deprecated
-
-### Removed
  
 ### Fixed
 - Fixed an issue preventing Ingress Configuration with Azure Front Door to be automated (#28)
