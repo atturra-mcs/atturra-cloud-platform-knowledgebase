@@ -18,7 +18,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Security
 - Action Code Verification Test results (#22, #25, #26, #27)
 
-## [1.2.118] - 2024-04-23
+## [1.2.120] - 2024-04-23
 
 ### Added
 - Added Prometheus to client subscriptions to allow for real-time CPU/Memory usage monitoring (#13)
