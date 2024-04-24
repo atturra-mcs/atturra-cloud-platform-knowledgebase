@@ -18,6 +18,11 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Security
 - Action Code Verification Test results (#22, #25, #26, #27)
 
+## [1.2.128] - 2024-04-24
+
+### Changed
+- Updated the AKS cluster and node version from 1.27.3 to 1.28.5
+
 ## [1.2.120] - 2024-04-23
 
 ### Added
