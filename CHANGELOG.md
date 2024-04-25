@@ -18,6 +18,11 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Security
 - Action Code Verification Test results (#22, #25, #26, #27)
 
+## [1.2.137] - 2024-04-25
+
+### Added
+- Added presistent storage with Azure Premium Disk for Boomi to increase the speed of certain file read/write operations
+
 ## [1.2.128] - 2024-04-24
 
 ### Changed
