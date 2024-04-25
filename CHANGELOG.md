@@ -18,6 +18,11 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Security
 - Action Code Verification Test results (#22, #25, #26, #27)
 
+## [1.2.139] - 2024-04-25
+
+### Changed
+- Updated Molecule configuration to use volume claim templates.
+
 ## [1.2.137] - 2024-04-25
 
 ### Added
