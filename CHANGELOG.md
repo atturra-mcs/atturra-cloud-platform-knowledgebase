@@ -18,6 +18,11 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Security
 - Action Code Verification Test results (#22, #25, #26, #27)
 
+## [Unreleased] - 2024-04-XX
+
+### Changed
+- Removed VPN connection configuration from deployment and moved to Runbook to allow for multiple customised connections.
+
 ## [1.2.139] - 2024-04-25
 
 ### Changed
