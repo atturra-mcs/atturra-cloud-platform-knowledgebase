@@ -16,7 +16,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Security
 - Action Code Verification Test results (low priority results) (#22, #25, #26, #27)
 
-## [1.2.156] - 2024-04-29
+## [1.2.157] - 2024-04-29
 
 ### Added
 - Added and published available knowledgebase including FAQ, architecture design and key configuration information (#60)
