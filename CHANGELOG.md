@@ -8,8 +8,6 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ## [Unreleased]
  
 ### Added
-- Added new functionality to allow individualised routes for each VPN Client (#51)
-- Added and published available knowledgebase including FAQ, architecture design and key configuration information (#60)
 - Added and published maintenance plan for kubernetes cluster and containers (#35)
  
 ### Changed
@@ -18,20 +16,23 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Security
 - Action Code Verification Test results (#22, #25, #26, #27)
 
-## [Unreleased] - 2024-04-XX
+## [Unreleased] - 2024-05-XX
+
+### Added
+- Added and published available knowledgebase including FAQ, architecture design and key configuration information (#60)
 
 ### Changed
-- Removed VPN connection configuration from deployment and moved to Runbook to allow for multiple customised connections.
+- Removed VPN connection configuration from deployment and moved to Runbook to allow for multiple customised connections. (#51)
 
 ## [1.2.139] - 2024-04-25
 
 ### Changed
-- Updated Molecule configuration to use volume claim templates.
+- Updated Molecule configuration to use volume claim templates. (#71)
 
 ## [1.2.137] - 2024-04-25
 
 ### Added
-- Added presistent storage with Azure Premium Disk for Boomi to increase the speed of certain file read/write operations
+- Added presistent storage with Azure Premium Disk for Boomi to increase the speed of certain file read/write operations (#69)
 
 ## [1.2.128] - 2024-04-24
 
