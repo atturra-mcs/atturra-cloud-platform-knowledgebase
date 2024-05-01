@@ -8,7 +8,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ## [Unreleased]
  
 ### Added
-- Added and published maintenance plan for kubernetes cluster and containers (#35)
+- Added and published maintenance plan for kubernetes cluster and containers (#35, #73)
  
 ### Changed
 - Changed Boomi Gateway installation to a container (#33)
