@@ -16,6 +16,11 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Security
 - Action Code Verification Test results (low priority results) (#22, #25, #26, #27)
 
+## [1.2.163] - 2024-02-05
+
+### Changed
+- Updated Local Disk to XFS to overcome inode limitations of EXT4 (#74)
+
 ## [1.2.157] - 2024-04-29
 
 ### Added
