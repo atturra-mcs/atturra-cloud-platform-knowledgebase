@@ -5,18 +5,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
  
-## [Unreleased]
- 
+## [1.2.177] - 2024-06-04
+
 ### Added
-- Added and published maintenance plan for kubernetes cluster and containers (#35, #73)
- 
-### Changed
-- Changed Boomi Gateway installation to a container (#33)
+- Added support for BGP routing for S2S VPNs. (#80)
 
-### Security
-- Action Code Verification Test results (low priority results) (#22, #25, #26, #27)
-
-## [1.2.163] - 2024-02-05
+## [1.2.163] - 2024-05-02
 
 ### Changed
 - Updated Local Disk to XFS to overcome inode limitations of EXT4 (#74)
